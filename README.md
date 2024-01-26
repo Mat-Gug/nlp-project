@@ -12,7 +12,7 @@ The project aims to develop a library capable of analyzing received emails. In p
 The provided dataset is `spam_dataset.csv`.
 
 You can access the project by referring to the `Email Analysis Project.ipynb` notebook.<br>
-Additionally, `utils.py` houses custom functions utilized throughout the project, and `requirements.txt` can be employed to install the necessary dependencies in the project's virtual environment. Detailed instructions for setting up the virtual environment are provided below.
+Additionally, `utils.py` houses custom functions utilized throughout the project, and `requirements.txt` can be employed to install the necessary dependencies in the project's virtual environment (Python version: 3.9.0). Detailed instructions for setting up the virtual environment are provided below.
 
 ## Setting Up a Virtual Environment and Installing Dependencies
 
